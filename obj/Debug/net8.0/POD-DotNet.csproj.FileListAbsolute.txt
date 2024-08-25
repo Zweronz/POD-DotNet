@@ -1,0 +1,17 @@
+D:\nospace\POD-DotNet\bin\Debug\net8.0\POD-DotNet.exe
+D:\nospace\POD-DotNet\bin\Debug\net8.0\POD-DotNet.deps.json
+D:\nospace\POD-DotNet\bin\Debug\net8.0\POD-DotNet.runtimeconfig.json
+D:\nospace\POD-DotNet\bin\Debug\net8.0\POD-DotNet.dll
+D:\nospace\POD-DotNet\bin\Debug\net8.0\POD-DotNet.pdb
+D:\nospace\POD-DotNet\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\nospace\POD-DotNet\obj\Debug\net8.0\POD-DotNet.csproj.AssemblyReference.cache
+D:\nospace\POD-DotNet\obj\Debug\net8.0\POD-DotNet.GeneratedMSBuildEditorConfig.editorconfig
+D:\nospace\POD-DotNet\obj\Debug\net8.0\POD-DotNet.AssemblyInfoInputs.cache
+D:\nospace\POD-DotNet\obj\Debug\net8.0\POD-DotNet.AssemblyInfo.cs
+D:\nospace\POD-DotNet\obj\Debug\net8.0\POD-DotNet.csproj.CoreCompileInputs.cache
+D:\nospace\POD-DotNet\obj\Debug\net8.0\POD-DotNet.csproj.Up2Date
+D:\nospace\POD-DotNet\obj\Debug\net8.0\POD-DotNet.dll
+D:\nospace\POD-DotNet\obj\Debug\net8.0\refint\POD-DotNet.dll
+D:\nospace\POD-DotNet\obj\Debug\net8.0\POD-DotNet.pdb
+D:\nospace\POD-DotNet\obj\Debug\net8.0\POD-DotNet.genruntimeconfig.cache
+D:\nospace\POD-DotNet\obj\Debug\net8.0\ref\POD-DotNet.dll
